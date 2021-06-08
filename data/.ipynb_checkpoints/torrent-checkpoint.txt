@@ -1,0 +1,11 @@
+chip,length,reads,cost
+Ion 510 Chip,400,2e6,
+Ion 510 Chip,200,3e6,
+Ion 520 Chip,600,3e6,
+Ion 520 Chip,400,4e6,
+Ion 520 Chip,200,6e6,
+Ion 530 Chip,600,9e6,
+Ion 530 Chip,400,15e6,
+Ion 530 Chip,200,20e6,
+Ion 540 Chip,200,60e6,
+Ion 550 Chip,200,100e6,
