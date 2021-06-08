@@ -13,7 +13,7 @@ git clone https://github.com/stonyc/dash-torrent-coverage.git
 python app.py
 ```
 
-**Browser Access:
+**Browser Access**
 
 Finally, open a Chrome browser window to your computer IP address to access the application:
 
