@@ -2,23 +2,18 @@ Dash app to calculate and visualize theoretical multiplexed coverage from Ion To
 
 **Local Installation**
 
-First install the necessary dependencies:
-
 ```bash
+# First install the necessary dependencies:
 conda install -c anaconda -c conda-forge "python>=3.7.6" plotly dash pandas numpy
-```
 
-Then clone the `seqcover` repository:
-
-```bash
+# Then clone the app repository:
 git clone https://github.com/stonyc/dash-torrent-coverage.git
-```
 
-Then to run the application, go to the cloned `seqcover` repository and enter:
-
-```bash
+# Then to run the application, go to the cloned repository folder and enter:
 python app.py
 ```
+
+**Browser Access:
 
 Finally, open a Chrome browser window to your computer IP address to access the application:
 
@@ -26,6 +21,6 @@ Finally, open a Chrome browser window to your computer IP address to access the 
 http://<your-ip-address>:8051
 ```
 
-**Example**
+**Screenshot**
 
 ![screenshot](assets/seqcover.png)
